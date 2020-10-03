@@ -1,0 +1,12 @@
+{
+    "name": "tomsk/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.1",
+        "tompk/micromvc-core": "^1.0.3"
+    }
+}
